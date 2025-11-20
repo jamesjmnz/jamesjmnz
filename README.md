@@ -6,4 +6,4 @@
 - 🎓 Studying at the **University of Pangasinan**
 
 # 🚀 Languages & Tools
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,postgres,prisma,fastapi,supabase,mongodb,php,mysql,py,vercel,docker,postman,git,github" />
