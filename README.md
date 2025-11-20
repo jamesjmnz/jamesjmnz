@@ -13,7 +13,7 @@
 <table>
   <tr>
    
-  <td style="width:33%; vertical-align:top; padding-right:20px;">
+  <td style="width:50%; vertical-align:top; padding-right:20px;">
       <h3>LLMs & AI Frameworks</h3>
       <ul>
         <li>OpenAI API (GPT-4o / GPT-5)</li>
@@ -26,20 +26,14 @@
     </td>
 
    
-  <td style="width:33%; vertical-align:top; padding:0 20px;">
-      <h3>Vector Databases</h3>
-      <ul>
-        <li>Qdrant</li>
-        <li>ChromaDB</li>
-        <li>Pinecone</li>
-      </ul>
-    </td>
-
    
-  <td style="width:33%; vertical-align:top; padding-left:20px;">
+  <td style="width:50%; vertical-align:top; padding-left:20px;">
       <h3>AI Backend / Serving</h3>
       <ul>
         <li>Python (FastAPI)</li>
+        <li>Qdrant</li>
+        <li>ChromaDB</li>
+        <li>Pinecone</li>
         <li>Pydantic</li>
         <li>RQ + Redis (Workers / Queues)</li>
         <li>Docker / Docker Compose</li>
