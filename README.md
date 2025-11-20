@@ -1,5 +1,4 @@
 # About
----
 
 - 👋 Hi, I’m **@yourusername**
 - 👀 I’m interested in **software programming**
