@@ -8,13 +8,12 @@
 # 🚀 Languages & Tools
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,postgres,prisma,fastapi,supabase,mongodb,php,mysql,py,vercel,docker,postman,git,github" />
 
-
 <h1>🧠 AI Tech Stack</h1>
 
 <table>
   <tr>
    
-    <td style="width:33%; vertical-align:top; padding-right:20px;">
+  <td style="width:33%; vertical-align:top; padding-right:20px;">
       <h3>LLMs & AI Frameworks</h3>
       <ul>
         <li>OpenAI API (GPT-4o / GPT-5)</li>
@@ -27,7 +26,7 @@
     </td>
 
    
-    <td style="width:33%; vertical-align:top; padding:0 20px;">
+  <td style="width:33%; vertical-align:top; padding:0 20px;">
       <h3>Vector Databases</h3>
       <ul>
         <li>Qdrant</li>
@@ -37,7 +36,7 @@
     </td>
 
    
-    <td style="width:33%; vertical-align:top; padding-left:20px;">
+  <td style="width:33%; vertical-align:top; padding-left:20px;">
       <h3>AI Backend / Serving</h3>
       <ul>
         <li>Python (FastAPI)</li>
@@ -48,5 +47,6 @@
     </td>
   </tr>
 </table>
+
 
 
