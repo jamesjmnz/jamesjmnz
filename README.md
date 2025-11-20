@@ -20,8 +20,9 @@
         <li>LangChain (RAG, Agents, Tools)</li>
         <li>LangGraph</li>
         <li>LlamaIndex</li>
-        <li>HuggingFace Transformers</li>
-        <li>SentenceTransformers</li>
+        <li>HuggingFace</li>
+        <li>Mistral</li>
+        <li>Transformers</li>
       </ul>
     </td>
 
