@@ -8,23 +8,52 @@
 # 🚀 Languages & Tools
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,postgres,prisma,fastapi,supabase,mongodb,php,mysql,py,vercel,docker,postman,git,github" />
 
-# 🧠 AI Tech Stack
+<h1>🧠 AI Tech Stack</h1>
 
-### **LLMs & AI Frameworks**
-- OpenAI API (GPT-4o / GPT-5)
-- LangChain (RAG, Agents, Tools)
-- LangGraph
-- LlamaIndex
-- HuggingFace Transformers
-- SentenceTransformers
+<table>
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td style="width:50%; vertical-align:top; padding-right:20px;">
 
-### **Vector Databases**
-- Qdrant
-- ChromaDB
-- Pinecone
+      <h3>LLMs & AI Frameworks</h3>
+      <ul>
+        <li>OpenAI API (GPT-4o / GPT-5)</li>
+        <li>LangChain (RAG, Agents, Tools)</li>
+        <li>LangGraph</li>
+        <li>LlamaIndex</li>
+        <li>HuggingFace Transformers</li>
+        <li>SentenceTransformers</li>
+      </ul>
 
-### **AI Backend / Serving**
-- Python (FastAPI)
-- Pydantic
-- RQ + Redis (Workers / Queues)
-- Docker / Docker Compose
+      <h3>Vector Databases</h3>
+      <ul>
+        <li>Qdrant</li>
+        <li>ChromaDB</li>
+        <li>Pinecone</li>
+      </ul>
+
+    </td>
+
+    <!-- RIGHT COLUMN -->
+    <td style="width:50%; vertical-align:top; padding-left:20px;">
+
+      <h3>AI Backend / Serving</h3>
+      <ul>
+        <li>Python (FastAPI)</li>
+        <li>Pydantic</li>
+        <li>RQ + Redis (Workers / Queues)</li>
+        <li>Docker / Docker Compose</li>
+      </ul>
+
+      <h3>Tools & Utils</h3>
+      <ul>
+        <li>GitHub Actions</li>
+        <li>VS Code / Cursor</li>
+        <li>Postman</li>
+        <li>Uvicorn / Gunicorn</li>
+      </ul>
+
+    </td>
+  </tr>
+</table>
+
