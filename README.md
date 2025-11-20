@@ -10,10 +10,4 @@
 
 # AI Stack
 
-- Python
-- Langchain
-- Langgraph
-- ChromaDB
-- Faiss
-- Qdrant
-- Docker
+- Python - Langchain -Langgraph - ChromaDB - Faiss - Qdrant - Docker
