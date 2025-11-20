@@ -8,7 +8,7 @@
 # 🚀 Languages & Tools
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,postgres,prisma,fastapi,supabase,mongodb,php,mysql,py,vercel,docker,postman,git,github" />
 
-## 🧠 AI Tech Stack
+# 🧠 AI Tech Stack
 
 ### **LLMs & AI Frameworks**
 - OpenAI API (GPT-4o / GPT-5)
