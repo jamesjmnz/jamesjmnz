@@ -37,7 +37,7 @@
         <li>Pinecone</li>
         <li>Pydantic</li>
         <li>RQ + Redis (Workers / Queues)</li>
-        <li>Docker / Docker Compose</li>
+        <li>Docker</li>
       </ul>
     </td>
   </tr>
