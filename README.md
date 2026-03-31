@@ -6,7 +6,7 @@
 - 🎓 Studying at the **University of Pangasinan**
 
 ## Web Portfolio
-[<img src="https://jamesjimenez.vercel.app/embed.webp" width="300" height="200" />](https://jamesjimenez.vercel.app)
+[<img src="https://jamesjimenez.vercel.app/thumbnail.png" width="300" height="200" />](https://jamesjimenez.vercel.app)
 
 
 
